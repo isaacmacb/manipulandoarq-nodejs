@@ -1,4 +1,4 @@
-# diversas formas de como manipular arquivos no node.js
+# Diversas formas de como manipular arquivos no node.js
 Em Node.js, você pode manipular arquivos usando o módulo fs (filesystem). 
 O módulo fs fornece várias funções e métodos para interagir com o sistema de arquivos do seu sistema operacional
 
